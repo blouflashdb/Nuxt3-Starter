@@ -3,7 +3,7 @@
 
   useHead({
     title: app.name,
-    titleTemplate: "%s - Nuxt 3 Awesome Starter",
+    titleTemplate: "%s - Nuxt 3 Starter",
   });
 </script>
 

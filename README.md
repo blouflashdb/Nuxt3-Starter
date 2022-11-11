@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Features
+
+- [x] ✨ Eslint & Prettier
 
 ## Setup
 
